@@ -11,7 +11,7 @@ class Nodo {
         this.nombre = nombre;
         this.hijo = null;
         this.hermano = null;
-        this.padre= "";
+        this.padre = "";
     }
 }
 
